@@ -107,16 +107,9 @@ A personal-finance app for recording income and expenses, organizing transaction
 
 <div align="center">
 
-<a href="https://github.com/VedantDG-07"><img height="180" src="https://github-readme-stats.vercel.app/api?username=VedantDG-07&show_icons=true&bg_color=050b18&title_color=00d4ff&text_color=c9d1d9&icon_color=7b2fff&border_color=1e3d60" alt="Vedant's GitHub statistics" /></a>
-<a href="https://github.com/VedantDG-07"><img height="180" src="https://streak-stats.demolab.com?user=VedantDG-07&background=050b18&ring=7b2fff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=8b949e&border=1e3d60" alt="Vedant's GitHub contribution streak" /></a>
-
-<br /><br />
-
-<a href="https://github.com/VedantDG-07"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantDG-07&layout=compact&bg_color=050b18&title_color=00d4ff&text_color=c9d1d9&border_color=1e3d60" alt="Most-used programming languages" /></a>
+<a href="https://github.com/VedantDG-07"><img height="180" src="https://streak-stats.demolab.com?user=VedantDG-07&background=050b18&ring=7b2fff&fire=00d4ff&currStreakLabel=00d4ff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e&border=1e3d60" alt="Vedant's GitHub contribution streak" /></a>
 
 </div>
-
-> These stats and project-card images are served by external providers, so they may occasionally be delayed or rate-limited. The repository links remain available if a card does not load.
 
 ---
 
