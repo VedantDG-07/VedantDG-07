@@ -188,7 +188,7 @@ principle:  "Understand deeply. Build independently. Improve continuously."
 
 <div align="center">
 
-I'm open to **internship opportunities**, **collaborative projects**, and conversations around **software engineering** and **applied AI**.
+I'm open to **job/internship opportunities**, **collaborative projects**, and conversations around **software engineering** and **applied AI**.
 
 <br/>
 
