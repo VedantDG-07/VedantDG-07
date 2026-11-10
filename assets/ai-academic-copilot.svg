@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">AI Academic Co-Pilot</title>
+  <desc id="desc">A neon-blue project preview showing an AI study assistant dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07172e"/><stop offset="1" stop-color="#090d1d"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#37c8ff"/><stop offset="1" stop-color="#315cff"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111d36"/><stop offset="1" stop-color="#101328"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="8" y="8" width="884" height="484" rx="28" fill="url(#bg)" stroke="#168cf4" stroke-width="2"/>
+  <circle cx="780" cy="75" r="130" fill="#0755c8" opacity=".1"/>
+  <rect x="46" y="46" width="75" height="75" rx="21" fill="url(#blue)"/>
+  <path d="M65 76 83 66l18 10-18 10zM71 83v11l12 7 12-7V83M65 77v14" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+  <text x="143" y="78" fill="#f1f7ff" font-family="Arial,sans-serif" font-size="33" font-weight="700">AI Academic</text>
+  <text x="143" y="116" fill="#f1f7ff" font-family="Arial,sans-serif" font-size="33" font-weight="700">Co-Pilot</text>
+  <rect x="700" y="56" width="145" height="39" rx="20" fill="#10294b" stroke="#35baff"/>
+  <text x="772" y="81" text-anchor="middle" fill="#9fe4ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">APPLIED AI</text>
+  <text x="46" y="164" fill="#c5d3e8" font-family="Arial,sans-serif" font-size="21">An AI-powered academic assistant with RAG for smarter learning.</text>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="600">
+    <rect x="46" y="184" width="126" height="34" rx="17" fill="#101d35" stroke="#29405f"/><text x="109" y="206" text-anchor="middle" fill="#e2eaff">Python</text>
+    <rect x="183" y="184" width="116" height="34" rx="17" fill="#101d35" stroke="#29405f"/><text x="241" y="206" text-anchor="middle" fill="#e2eaff">React</text>
+    <rect x="310" y="184" width="98" height="34" rx="17" fill="#101d35" stroke="#29405f"/><text x="359" y="206" text-anchor="middle" fill="#e2eaff">RAG</text>
+  </g>
+  <rect x="46" y="239" width="808" height="211" rx="17" fill="url(#panel)" stroke="#263b5d"/>
+  <path d="M46 257a18 18 0 0 1 18-18h772a18 18 0 0 1 18 18v22H46z" fill="#111a2b"/>
+  <circle cx="66" cy="258" r="5" fill="#ff5f57"/><circle cx="84" cy="258" r="5" fill="#ffbd2e"/><circle cx="102" cy="258" r="5" fill="#29c840"/>
+  <text x="128" y="263" fill="#92a6c0" font-family="Arial,sans-serif" font-size="12">AI Academic Co-Pilot</text>
+  <rect x="59" y="284" width="151" height="153" rx="9" fill="#0c1426"/>
+  <text x="76" y="311" fill="#9edcff" font-family="Arial,sans-serif" font-size="13" font-weight="700">◆ Home</text>
+  <text x="76" y="340" fill="#a5b3ca" font-family="Arial,sans-serif" font-size="12">Study Planner</text>
+  <text x="76" y="368" fill="#a5b3ca" font-family="Arial,sans-serif" font-size="12">Ask AI</text>
+  <text x="76" y="396" fill="#a5b3ca" font-family="Arial,sans-serif" font-size="12">Resources</text>
+  <text x="237" y="322" fill="#f4f8ff" font-family="Arial,sans-serif" font-size="22" font-weight="700">Your AI Study Buddy</text>
+  <text x="237" y="348" fill="#aabbd1" font-family="Arial,sans-serif" font-size="13">Ask anything, plan better, study smarter.</text>
+  <rect x="237" y="370" width="390" height="39" rx="11" fill="#192641" stroke="#334c70"/>
+  <text x="254" y="395" fill="#91a5bd" font-family="Arial,sans-serif" font-size="12">Ask a question...</text>
+  <rect x="581" y="378" width="27" height="23" rx="7" fill="url(#blue)"/>
+  <path d="m591 389 7 0m-3-4 4 4-4 4" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#glow)"><circle cx="746" cy="352" r="48" fill="#102954" stroke="#32c8ff" stroke-width="2"/><rect x="715" y="333" width="62" height="43" rx="13" fill="#d7f5ff"/><rect x="725" y="344" width="10" height="10" rx="5" fill="#2776ff"/><rect x="756" y="344" width="10" height="10" rx="5" fill="#2776ff"/><path d="M735 364q11 10 22 0" fill="none" stroke="#2776ff" stroke-width="3" stroke-linecap="round"/><path d="M746 325v-12m-7 0h14" stroke="#71ddff" stroke-width="3" stroke-linecap="round"/></g>
+  <text x="450" y="474" text-anchor="middle" fill="#92dfff" font-family="Arial,sans-serif" font-size="14" font-weight="700">VIEW REPOSITORY  →</text>
+</svg>

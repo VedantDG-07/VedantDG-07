@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">V2V SOS Alert System</title>
+  <desc id="desc">A teal and red emergency-alert project preview with a location map and SOS interface.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071b20"/><stop offset="1" stop-color="#08121b"/></linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7777"/><stop offset="1" stop-color="#ed263d"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#42e1b4"/><stop offset="1" stop-color="#11a987"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="884" height="484" rx="28" fill="url(#bg)" stroke="#18bca6" stroke-width="2"/>
+  <rect x="47" y="45" width="74" height="74" rx="20" fill="#3a111b" stroke="#ff4557"/>
+  <path d="M84 61c-12 0-22 10-22 22v13l-6 10h56l-6-10V83c0-12-10-22-22-22z" fill="url(#red)"/><path d="M84 72v14m0 8v1" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="143" y="77" fill="#f2fbff" font-family="Arial,sans-serif" font-size="34" font-weight="700">V2V SOS</text>
+  <text x="143" y="116" fill="#f2fbff" font-family="Arial,sans-serif" font-size="34" font-weight="700">Alert System</text>
+  <rect x="701" y="55" width="143" height="39" rx="20" fill="#10352f" stroke="#36dfa9"/>
+  <text x="772" y="80" text-anchor="middle" fill="#a1ffe0" font-family="Arial,sans-serif" font-size="16" font-weight="700">LIVE DEMO</text>
+  <text x="47" y="163" fill="#c7d7e4" font-family="Arial,sans-serif" font-size="21">A real-time emergency alert system with location sharing.</text>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="600">
+    <rect x="47" y="184" width="145" height="34" rx="17" fill="#14252d" stroke="#45525a"/><text x="119" y="206" text-anchor="middle" fill="#fff1b7">JavaScript</text>
+    <rect x="203" y="184" width="132" height="34" rx="17" fill="#14252d" stroke="#45525a"/><text x="269" y="206" text-anchor="middle" fill="#dcffe9">Firebase</text>
+    <rect x="346" y="184" width="102" height="34" rx="17" fill="#14252d" stroke="#45525a"/><text x="397" y="206" text-anchor="middle" fill="#d8eaff">Maps</text>
+  </g>
+  <rect x="47" y="239" width="807" height="211" rx="17" fill="#101724" stroke="#33404b"/>
+  <path d="M47 257a18 18 0 0 1 18-18h771a18 18 0 0 1 18 18v20H47z" fill="#151d29"/>
+  <circle cx="68" cy="258" r="5" fill="#ff5f57"/><circle cx="86" cy="258" r="5" fill="#ffbd2e"/><circle cx="104" cy="258" r="5" fill="#29c840"/>
+  <rect x="60" y="282" width="243" height="155" rx="10" fill="#111a2b"/>
+  <path d="M182 299 201 310v22q0 17-19 25-19-8-19-25v-22z" fill="#d72941" stroke="#ff8e99" stroke-width="2"/><path d="M182 309v13m0 7v1" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <text x="182" y="377" text-anchor="middle" fill="#f5f8ff" font-family="Arial,sans-serif" font-size="17" font-weight="700">V2V SOS</text>
+  <text x="182" y="395" text-anchor="middle" fill="#94a2b5" font-family="Arial,sans-serif" font-size="10">Be safe. Stay alert.</text>
+  <rect x="82" y="404" width="200" height="24" rx="12" fill="#e83c51"/><text x="182" y="421" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700">SEND SOS ALERT</text>
+  <rect x="314" y="282" width="526" height="155" rx="10" fill="#10202a"/>
+  <path d="M328 344 395 294l54 30 55-28 48 32 67-35 74 40 127-47M329 400l72-32 58 26 65-48 61 39 79-32 62 38 114-51M420 285l-19 145m89-145 8 148m111-148-22 148m103-148 16 148m68-148-5 148" fill="none" stroke="#234653" stroke-width="2" opacity=".8"/>
+  <circle cx="607" cy="357" r="60" fill="none" stroke="#ff4f5c" stroke-width="2" opacity=".35"/><circle cx="607" cy="357" r="39" fill="none" stroke="#ff4f5c" stroke-width="2" opacity=".55"/><circle cx="607" cy="357" r="17" fill="#f04452" opacity=".22"/><path d="M607 334c-10 0-17 8-17 18 0 13 17 31 17 31s17-18 17-31c0-10-7-18-17-18z" fill="#ff5261"/><circle cx="607" cy="352" r="5" fill="#fff"/>
+  <rect x="665" y="299" width="149" height="48" rx="9" fill="#f6f7fb"/><path d="M679 312h18l9 15h-27z" fill="#f04452"/><text x="714" y="319" fill="#18202b" font-family="Arial,sans-serif" font-size="10" font-weight="700">Emergency Alert</text><text x="714" y="334" fill="#4b5664" font-family="Arial,sans-serif" font-size="10">Near you!</text>
+  <rect x="223" y="458" width="210" height="27" rx="14" fill="#112435" stroke="#3684ae"/><text x="328" y="476" text-anchor="middle" fill="#e8f7ff" font-family="Arial,sans-serif" font-size="12" font-weight="700">VIEW REPOSITORY  →</text>
+  <rect x="465" y="458" width="210" height="27" rx="14" fill="url(#green)"/><text x="570" y="476" text-anchor="middle" fill="#06261c" font-family="Arial,sans-serif" font-size="12" font-weight="700">LIVE DEMO  →</text>
+</svg>

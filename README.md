@@ -52,7 +52,7 @@ principle:  "Understand deeply. Build independently. Improve continuously."
 
 ### 🤖 AI Academic Co-Pilot
 
-[![AI Academic Co-Pilot project preview](./assets/ai-academic-copilot.png)](https://github.com/VedantDG-07/AI-Academic-Co-pilot)
+[![AI Academic Co-Pilot project preview](./assets/ai-academic-copilot.svg)](https://github.com/VedantDG-07/AI-Academic-Co-pilot)
 
 An AI-powered academic assistant with RAG for smarter learning.
 
@@ -60,7 +60,7 @@ An AI-powered academic assistant with RAG for smarter learning.
 
 ### 🚨 V2V SOS Alert System
 
-[![V2V SOS Alert System project preview](./assets/v2v-sos-alert-system.png)](https://github.com/VedantDG-07/V2V-SOS-Alert-System)
+[![V2V SOS Alert System project preview](./assets/v2v-sos-alert-system.svg)](https://github.com/VedantDG-07/V2V-SOS-Alert-System)
 
 A real-time emergency alert system with location sharing.
 
@@ -68,7 +68,7 @@ A real-time emergency alert system with location sharing.
 
 ### 💸 Expanzo — Expense Tracker
 
-[![Expanzo Expense Tracker project preview](./assets/expanzo-expense-tracker.png)](https://github.com/VedantDG-07/Expense-Tracker)
+[![Expanzo Expense Tracker project preview](./assets/expanzo-expense-tracker.svg)](https://github.com/VedantDG-07/Expense-Tracker)
 
 Track expenses, manage budgets, and gain insights.
 

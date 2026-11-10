@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Expanzo Expense Tracker</title>
+  <desc id="desc">A violet-themed expense tracker project preview with balance cards and spending charts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17102f"/><stop offset="1" stop-color="#0c1022"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a994ff"/><stop offset="1" stop-color="#6939ec"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151b31"/><stop offset="1" stop-color="#111528"/></linearGradient>
+  </defs>
+  <rect x="8" y="8" width="884" height="484" rx="28" fill="url(#bg)" stroke="#8958ff" stroke-width="2"/>
+  <circle cx="790" cy="78" r="130" fill="#662be8" opacity=".12"/>
+  <rect x="47" y="45" width="74" height="74" rx="20" fill="url(#violet)"/>
+  <path d="M66 70h38a6 6 0 0 1 6 6v29H66a8 8 0 0 1-8-8V66a8 8 0 0 1 8-8h32v9H67a4 4 0 0 0-4 4v2z" fill="#fff" opacity=".95"/><rect x="87" y="79" width="28" height="17" rx="5" fill="#ded5ff"/><circle cx="96" cy="87" r="2.5" fill="#6b45e8"/>
+  <text x="143" y="78" fill="#f5f1ff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Expanzo —</text>
+  <text x="143" y="116" fill="#f5f1ff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Expense Tracker</text>
+  <rect x="711" y="55" width="133" height="39" rx="20" fill="#211b40" stroke="#9b77ff"/>
+  <text x="777" y="80" text-anchor="middle" fill="#e4d8ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">FULL-STACK</text>
+  <text x="47" y="163" fill="#d2cde1" font-family="Arial,sans-serif" font-size="21">Track expenses, manage budgets and gain insights.</text>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="600">
+    <rect x="47" y="184" width="126" height="34" rx="17" fill="#1c1937" stroke="#554c82"/><text x="110" y="206" text-anchor="middle" fill="#ece6ff">Python</text>
+    <rect x="184" y="184" width="114" height="34" rx="17" fill="#1c1937" stroke="#554c82"/><text x="241" y="206" text-anchor="middle" fill="#ece6ff">Flask</text>
+    <rect x="309" y="184" width="114" height="34" rx="17" fill="#1c1937" stroke="#554c82"/><text x="366" y="206" text-anchor="middle" fill="#ece6ff">SQLite</text>
+  </g>
+  <rect x="47" y="239" width="807" height="211" rx="17" fill="url(#panel)" stroke="#342d55"/>
+  <path d="M47 257a18 18 0 0 1 18-18h771a18 18 0 0 1 18 18v20H47z" fill="#171b2c"/>
+  <circle cx="68" cy="258" r="5" fill="#ff5f57"/><circle cx="86" cy="258" r="5" fill="#ffbd2e"/><circle cx="104" cy="258" r="5" fill="#29c840"/>
+  <text x="128" y="263" fill="#bec5d8" font-family="Arial,sans-serif" font-size="12">Expanzo  /  Dashboard</text>
+  <rect x="60" y="282" width="145" height="155" rx="9" fill="#101528"/>
+  <text x="76" y="310" fill="#c7b9ff" font-family="Arial,sans-serif" font-size="12" font-weight="700">Dashboard</text>
+  <text x="76" y="340" fill="#a5adc2" font-family="Arial,sans-serif" font-size="11">Transactions</text>
+  <text x="76" y="368" fill="#a5adc2" font-family="Arial,sans-serif" font-size="11">Analytics</text>
+  <text x="76" y="396" fill="#a5adc2" font-family="Arial,sans-serif" font-size="11">Settings</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="218" y="289" width="192" height="59" rx="10" fill="#20213b"/><text x="231" y="309" fill="#aab3c9" font-size="10">Total Balance</text><text x="231" y="335" fill="#fff" font-size="18" font-weight="700">₹12,450</text>
+    <rect x="420" y="289" width="192" height="59" rx="10" fill="#20213b"/><text x="433" y="309" fill="#aab3c9" font-size="10">This Month</text><text x="433" y="335" fill="#fff" font-size="18" font-weight="700">₹8,230</text>
+    <rect x="622" y="289" width="216" height="59" rx="10" fill="#20213b"/><text x="635" y="309" fill="#aab3c9" font-size="10">This Month's Spent</text><text x="635" y="335" fill="#fff" font-size="18" font-weight="700">₹6,120</text>
+  </g>
+  <rect x="218" y="359" width="282" height="76" rx="10" fill="#171d32"/><text x="231" y="378" fill="#e9eaff" font-family="Arial,sans-serif" font-size="12" font-weight="700">Spending Overview</text>
+  <circle cx="272" cy="408" r="21" fill="none" stroke="#67e8d0" stroke-width="9" stroke-dasharray="46 132" transform="rotate(-90 272 408)"/><circle cx="272" cy="408" r="21" fill="none" stroke="#5598ff" stroke-width="9" stroke-dasharray="33 132" stroke-dashoffset="-46" transform="rotate(-90 272 408)"/><circle cx="272" cy="408" r="21" fill="none" stroke="#a27bff" stroke-width="9" stroke-dasharray="26 132" stroke-dashoffset="-79" transform="rotate(-90 272 408)"/><circle cx="272" cy="408" r="21" fill="none" stroke="#f8c857" stroke-width="9" stroke-dasharray="27 132" stroke-dashoffset="-105" transform="rotate(-90 272 408)"/>
+  <g font-family="Arial,sans-serif" font-size="9" fill="#b8c2d6"><circle cx="315" cy="397" r="3" fill="#67e8d0"/><text x="324" y="400">Food</text><text x="454" y="400">35%</text><circle cx="315" cy="411" r="3" fill="#5598ff"/><text x="324" y="414">Transport</text><text x="454" y="414">25%</text><circle cx="315" cy="425" r="3" fill="#a27bff"/><text x="324" y="428">Shopping</text><text x="454" y="428">20%</text></g>
+  <rect x="510" y="359" width="328" height="76" rx="10" fill="#171d32"/><text x="524" y="378" fill="#e9eaff" font-family="Arial,sans-serif" font-size="12" font-weight="700">Monthly Spending</text>
+  <path d="M536 423h280" stroke="#404962"/>
+  <rect x="557" y="402" width="25" height="21" rx="4" fill="#5598ff"/><rect x="608" y="390" width="25" height="33" rx="4" fill="#43d7c3"/><rect x="659" y="382" width="25" height="41" rx="4" fill="#9b7aff"/><rect x="710" y="370" width="25" height="53" rx="4" fill="#8058ff"/><rect x="761" y="386" width="25" height="37" rx="4" fill="#42b7ff"/>
+  <text x="450" y="477" text-anchor="middle" fill="#d0bdff" font-family="Arial,sans-serif" font-size="14" font-weight="700">VIEW REPOSITORY  →</text>
+</svg>
