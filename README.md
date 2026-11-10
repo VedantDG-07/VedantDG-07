@@ -50,29 +50,11 @@ principle:  "Understand deeply. Build independently. Improve continuously."
 
 ## `03` &nbsp; Selected Work
 
-### 🤖 AI Academic Co-Pilot
-
-[![AI Academic Co-Pilot project preview](./assets/ai-academic-copilot.svg)](https://github.com/VedantDG-07/AI-Academic-Co-pilot)
-
-An AI-powered academic assistant with RAG for smarter learning.
-
-**Stack:** Python · React · RAG · [View repository](https://github.com/VedantDG-07/AI-Academic-Co-pilot)
-
-### 🚨 V2V SOS Alert System
-
-[![V2V SOS Alert System project preview](./assets/v2v-sos-alert-system.svg)](https://github.com/VedantDG-07/V2V-SOS-Alert-System)
-
-A real-time emergency alert system with location sharing.
-
-**Stack:** JavaScript · Firebase · Maps · [View repository](https://github.com/VedantDG-07/V2V-SOS-Alert-System) · [Live demo](https://v2v-sos.web.app/)
-
-### 💸 Expanzo — Expense Tracker
-
-[![Expanzo Expense Tracker project preview](./assets/expanzo-expense-tracker.svg)](https://github.com/VedantDG-07/Expense-Tracker)
-
-Track expenses, manage budgets, and gain insights.
-
-**Stack:** Python · Flask · SQLite · [View repository](https://github.com/VedantDG-07/Expense-Tracker)
+| Preview | Project |
+|:---:|:---|
+| <a href="https://github.com/VedantDG-07/AI-Academic-Co-pilot"><img src="./assets/ai-academic-copilot.svg" width="180" alt="AI Academic Co-Pilot preview" /></a> | ### 🤖 AI Academic Co-Pilot<br>An AI-powered academic assistant with RAG for smarter learning.<br><br>**Stack:** Python · React · RAG<br>[View repository →](https://github.com/VedantDG-07/AI-Academic-Co-pilot) |
+| <a href="https://github.com/VedantDG-07/V2V-SOS-Alert-System"><img src="./assets/v2v-sos-alert-system.svg" width="180" alt="V2V SOS Alert System preview" /></a> | ### 🚨 V2V SOS Alert System<br>A real-time emergency alert system with location sharing.<br><br>**Stack:** JavaScript · Firebase · Maps<br>[View repository →](https://github.com/VedantDG-07/V2V-SOS-Alert-System) · [Live demo →](https://v2v-sos.web.app/) |
+| <a href="https://github.com/VedantDG-07/Expense-Tracker"><img src="./assets/expanzo-expense-tracker.svg" width="180" alt="Expanzo Expense Tracker preview" /></a> | ### 💸 Expanzo — Expense Tracker<br>Track expenses, manage budgets, and gain insights.<br><br>**Stack:** Python · Flask · SQLite<br>[View repository →](https://github.com/VedantDG-07/Expense-Tracker) |
 
 ---
 
