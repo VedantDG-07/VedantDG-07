@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Vedant Gawde — Building Software. Exploring Intelligence." width="100%" />
+<img
+    src="./assets/hero.svg"
+    width="100%"
+    alt="Vedant Gawde"
+  />
 
 <br/>
 
@@ -171,13 +175,11 @@ principle:  "Understand deeply. Build independently. Improve continuously."
 ## `06` &nbsp;Pac-Man eating my Contributions 👾
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedantDG-07/VedantDG-07/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedantDG-07/VedantDG-07/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/VedantDG-07/VedantDG-07/output/pacman-contribution-graph.svg" alt="Pac-Man eating GitHub contributions" width="100%" />
-</picture>
-
+  <img
+    src="https://raw.githubusercontent.com/VedantDG-07/VedantDG-07/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+    alt="GitHub contribution animation"
+  />
 </div>
 
 <br/>
